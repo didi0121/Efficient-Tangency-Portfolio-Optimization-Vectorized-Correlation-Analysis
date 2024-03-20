@@ -8,7 +8,6 @@ To enhance efficiency by vectorizing the code, we compute tangency portfolio wei
 By merging theory with practical implementation, this project provides valuable insights for portfolio management and investment decision-making.
 
 In this example we will construct an efficient frontier of portfolios of two risky assets -- stocks of Intel and National Instruments.
-The datasets were downloaded from [xx](https://www./) and the original datasets are provided by xx ([xxx](http://www./))
 
 ## Logistics
 
